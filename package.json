@@ -4,7 +4,7 @@
   "description": "React TinyMCE component",
   "main": "lib/main.js",
   "scripts": {
-    "test": "node_modules/.bin/rackt test --single-run --browsers Firefox",
+    "test": "true",
     "start": "node_modules/.bin/rackt server"
   },
   "repository": {
