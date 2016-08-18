@@ -2,6 +2,8 @@
 
 React TinyMCE component
 
+This is a FORK  to fix this bug:  https://github.com/instructure-react/react-tinymce/pull/23
+
 ## Installing
 
 ```bash
